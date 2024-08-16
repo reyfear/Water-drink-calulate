@@ -14,5 +14,4 @@ Currently, two official plugins are available:
 ```js
   npm install
   npm install use-local-storage
-})
 ```
