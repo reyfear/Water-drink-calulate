@@ -13,5 +13,10 @@ Currently, two official plugins are available:
 
 ```js
   npm install
+```
+
+- and:
+
+```js
   npm install use-local-storage
 ```
